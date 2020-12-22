@@ -1,3 +1,5 @@
 welcome:
   message: Hi from DEV, config from GIT..
   who: CeYHAN
+esb:
+  client: 1.2
